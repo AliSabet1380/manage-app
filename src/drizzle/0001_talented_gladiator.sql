@@ -1,0 +1,1 @@
+ALTER TABLE "payments" ALTER COLUMN "description" SET NOT NULL;
